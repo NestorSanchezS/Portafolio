@@ -10,7 +10,7 @@ const TechSkills = () => {
   if (!data) return null;
 
   return (
-    <div className="grid grid-cols-4 gap-7">
+    <div className="flex flex grid grid-cols-4 gap-7">
       {data?.map((skill, index) => (
         <motion.div
           initial="hidden"

@@ -32,8 +32,10 @@ const ContactSection = () => {
         <div className="contact-information">
           <h4>Contact Information</h4>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. A omnis,
-            iusto harum possimus non praesentium qui facere.
+            I am a web developer and development services for clients of all
+            sizes, specializing in creating elegant and modern websites. If you
+            want to contact me or are interested in starting a project together,
+            get in touch.
           </p>
           <span className="inline-block h-1 w-20 rounded-full bg-primary bg-opacity-20"></span>
           <div className="contact-blocks mt-5 space-y-5">
@@ -73,9 +75,7 @@ const ContactSection = () => {
               </span>
               <div className="content">
                 <h5 className="mb-2">Contact address</h5>
-                <p className="mb-0">
-                  121 King Street, Melbourne, United States
-                </p>
+                <p className="mb-0">Montería - Córdoba, Colombia</p>
               </div>
             </div>
           </div>

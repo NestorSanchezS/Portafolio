@@ -1,23 +1,17 @@
 [
-    {
-        "id": 1,
-        "title": "Higher School Graduation",
-        "meta": "Abc College.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2008 - 2010"
-    },
+   
     {
         "id": 2,
-        "title": "Bachelor of Sciences",
-        "meta": "Def University.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2010 - 2014"
+        "title": "Systems engineer",
+        "meta": "Universidad de Córdoba.",
+        "text": "I made the professional career where I created projects and got my foundations to enter the world of development, programming and telecommunications.",
+        "year": "2014 - 2020"
     },
     {
         "id": 3,
-        "title": "Masters of Sciences",
-        "meta": "Def University.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2014 - 2016"
+        "title": "Systems and networks",
+        "meta": "San Agustin Technological Institute.",
+        "text": "I carried out other projects with different development technologies and I also obtained certificates and advanced knowledge in networks and Telecommunications.",
+        "year": "2016 - 2018"
     }
 ]

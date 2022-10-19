@@ -1,23 +1,10 @@
 [
     {
         "id": 1,
-        "title": "UI/UX Designer",
-        "meta": "Abc Company.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2015 - 2017"
-    },
-    {
-        "id": 2,
-        "title": "Front-end Developer",
-        "meta": "Def Company.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2017 - 2019"
-    },
-    {
-        "id": 3,
-        "title": "Back-end Developer",
-        "meta": "Ghi Company.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2019 - Present"
+        "title": "Systems engineer, Frontend Developer",
+        "meta": "Intalnet S.A.S.",
+        "text": "I am the engineer in charge of the company. I am in charge of managing the servers and keeping the headend and networks of the different ministries where the company is located in good working order. As this is a company that offers computer solutions, he supported different projects for some of our clients and also designed and developed the page of the same company where he worked.",
+        "year": "2021 - present"
     }
 ]
+ 

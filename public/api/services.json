@@ -1,20 +1,20 @@
 [
     {
         "id": 1,
-        "title": "Ui/Ux Design",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Augue diam etiam venenatis mi tristique amet cras diam etiam.",
+        "title": "Creative design.",
+        "text": "Attractive web design with an intuitive interface that allows us to offer a pleasant experience to customers.",
         "icon": "/icons/quill-pen-line.svg"
     },
     {
         "id": 2,
-        "title": "Web Development",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Augue diam etiam venenatis mi tristique amet cras diam etiam.",
+        "title": "Developing.",
+        "text": "I know the importance of web design and can help you create a website you'll love. I will optimize your site with a smart search engine optimization strategy.",
         "icon": "/icons/code-s-slash-line.svg"
     },
     {
         "id": 3,
-        "title": "Mobile App Development",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Augue diam etiam venenatis mi tristique amet cras diam etiam.",
+        "title": "Responsive Design",
+        "text": "Your website will display correctly on any device, including desktops, tablets, and mobile phones.",
         "icon": "/icons/smartphone-line.svg"
     }
 ]
