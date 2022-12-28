@@ -1,10 +1,10 @@
 {
     "firstName": "Nestor",
     "lastName": "Sanchez",
-    "fullName": "Nestor Sanchez",
+    "fullName": "Néstor Sánchez",
     "thumbImage": "/images/formal-image.jpg",
     "largeImage": "/images/about-image.jpg",
-    "bio": "I am a frontend web developer. I can provide clean code. I also make website more & more interactive with web animations.",
+    "bio": "I'm a frontend web developer. I can provide clean code. I also make website more & more interactive with web animations.",
     "age": 25,
     "nationality": "Colombian",
     "languages": [
@@ -17,8 +17,7 @@
         "facebook": "https://www.facebook.com/NestorSanchezSa",
         "twitter": "https://twitter.com",
         "github": "https://github.com/NestorSanchezS",
-        "linkedin": "https://www.linkedin.com/in/nestor-sanchez-saenz-26538a1a9/",
-        "dribbble": "https://dribbble.com"
+        "linkedin": "https://www.linkedin.com/in/nestor-sanchez-saenz-26538a1a9/"
     },
     "phoneNumbers": [
         "+57 3015168800"     
