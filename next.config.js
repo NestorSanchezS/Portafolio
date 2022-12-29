@@ -9,7 +9,12 @@ const nextConfig = {
         loader: "custom",
         path: "/",
     },
+    experimental: {
+        outputStandalone: true,
+    },
 };
+
+
 
 module.exports = withPlugins(
     [
@@ -24,5 +29,5 @@ module.exports = withPlugins(
             },
         ],
     ],
-    nextConfig
+    nextConfig,
 );

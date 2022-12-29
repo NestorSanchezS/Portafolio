@@ -6,7 +6,7 @@
     "private": true,
     "scripts": {
         "dev": "next dev",
-        "start": "next start",
+        "start": "next start -p ${PORT:=3000}",
         "build": "next build",
         "lint": "next lint",
         "export": "next build && next export"
