@@ -2,17 +2,21 @@
     {
         "id": 1,
         "title": "Intalnet",
-        "subtitle": "Creative Candle Light",
+        "subtitle": "Pagina de la Empresa Intalnet desarollado frotend con NextJs y backend con Node Js y Express. Docker para el deploy: Almacenada en server AWS",
         "coverimage": "/images/portfolios/portfolio-image-19.jpg",
         "imagegallery": [
             "/images/portfolios/portfolio-image-lg-19.jpg",
             "/images/portfolios/portfolio-image-lg-18.jpg",
             "/images/portfolios/portfolio-image-lg-17.jpg"
         ],
-        "videogallery": false,
-        "url": "https://dribbble.com",
+        "videogallery": [
+            "https://youtu.be/0wZdaPJwZ-8"
+        ],
+        "url": "https://intalnettelecomunicaciones.com",
         "filters": [
-            "react"
+            "react",
+            "node",
+            "html"
         ]
     },
     {

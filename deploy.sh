@@ -11,4 +11,4 @@ docker tag nestorsanchezz/portafolio:$version nestorsanchezz/portafolio:latest
 docker push nestorsanchezz/portafolio:$version
 docker push nestorsanchezz/portafolio:latest
 
-ssh -i ./personal-key.pem ubuntu@intalnettelecomunicaciones.com "cd /home/ubuntu/IntalnetConfigServer && make reload-portafolio"
+ssh -i ./personal-key.pem ubuntu@sancheznestor.com "cd /home/ubuntu/NestorConfigServer && make reload-portafolio"

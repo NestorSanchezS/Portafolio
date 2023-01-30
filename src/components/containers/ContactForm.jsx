@@ -15,7 +15,7 @@ const ContactForm = () => {
     formState: { errors },
   } = useForm();
 
-  const onSubmit = (data) => {
+  const onSubmit = async (actions) => {
     emailjs
       .sendForm(
         settings.emailjs_serviceid,
@@ -35,13 +35,18 @@ const ContactForm = () => {
           setServerError("Something is wrong while sending the message!");
         }
       );
+      await new Promise((resolve) => setTimeout(resolve, 1000));
+     console.log(actions)
+     formulario.reset()
   };
 
   return (
     <form
+      id="formulario"
       ref={currentForm}
       className="card -mt-1.5  space-y-4 p-4 md:p-5"
       onSubmit={handleSubmit(onSubmit)}
+      
     >
       <div className="inputbox">
         <label htmlFor="name">Name</label>
