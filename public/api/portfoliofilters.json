@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "title": "UI/UX Design",
-        "value": "uiux"
+        "title": "Next Js",
+        "value": "next"
     },
     {
         "id": 2,
@@ -18,5 +18,20 @@
         "id": 4,
         "title": "Node Js",
         "value": "node"
+    },
+    {
+        "id": 4,
+        "title": "Express",
+        "value": "express"
+    },
+    {
+        "id": 4,
+        "title": "Docker",
+        "value": "docker"
+    },
+    {
+        "id": 4,
+        "title": "GraphQL",
+        "value": "graphql"
     }
 ]
