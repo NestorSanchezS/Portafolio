@@ -19,7 +19,7 @@ const Homepage2 = ({ posts }) => {
   return (
     <Layout blurred>
       <Head>
-        <title>Nestor - Personal Portafolio</title>
+        <title>Néstor - Personal Portafolio</title>
       </Head>
 
       {/* Start Hero Section */}
