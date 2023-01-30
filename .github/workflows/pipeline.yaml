@@ -1,0 +1,24 @@
+name: Docker Image CI
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup env vars
+        run: |
+          printf "${{secrets.BUILD_ENVIRONMENT_VARIABLES}}" > .env.production
+      - name: Login with docker
+        run: |
+          echo "${{secrets.DOCKER_PASSWORD}}" | docker login --username ${{secrets.DOCKER_USER}} --password-stdin
+      - name: Import server key from secrets
+        run: |
+          echo "${{secrets.AMAZON_SERVER_KEY}}" > personal-key.pem
+          chmod 600 personal-key.pem
+      - name: Build and Deploy
+        run: |
+          sh deploy.sh
