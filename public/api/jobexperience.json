@@ -5,6 +5,13 @@
         "meta": "Intalnet S.A.S.",
         "text": "In charge of carrying out projects with Backend and frotend technologies such as React, Next Js,Node JS, Express, Docker, GrapQL, Git. Manage the entire network and server infrastructure of each of the municipalities where the company is located",
         "year": "2021 - present"
+    },
+    {
+        "id": 2,
+        "title": "Backend Developer",
+        "meta": "Startups Labs Agency",
+        "text": "I use technologies such as Node.js, Express, MongoDB, Git, etc. to build efficient and scalable web applications and APIs. I integrate payment platforms and perform maintenance and optimization of existing code. My focus is on developing secure and high-performance solutions by applying clean code practices and collaborating effectively with the team to achieve project goals.",
+        "year": "2023 - present"
     }
 ]
  
